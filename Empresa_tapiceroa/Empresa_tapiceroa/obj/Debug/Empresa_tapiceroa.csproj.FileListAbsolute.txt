@@ -1,0 +1,11 @@
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\bin\Debug\Empresa_tapiceroa.exe.config
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\bin\Debug\Empresa_tapiceroa.exe
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\bin\Debug\Empresa_tapiceroa.pdb
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.csproj.AssemblyReference.cache
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.csproj.SuggestedBindingRedirects.cache
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.Form1.resources
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.Properties.Resources.resources
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.csproj.GenerateResource.cache
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.csproj.CoreCompileInputs.cache
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.exe
+D:\3lV1N@D3SKT0P#\programacion_en_C#\Empresa_tapiceroa\Empresa_tapiceroa\obj\Debug\Empresa_tapiceroa.pdb
